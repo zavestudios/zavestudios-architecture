@@ -1,4 +1,4 @@
-tudios — Developer Platform Architecture
+# ZaveStudios — Developer Platform Architecture
 
 ZaveStudios is an opinionated Developer Platform architecture designed to encode governance structurally, reduce infrastructure variance, and deliver deterministic system behavior across cloud and hybrid environments.
 
