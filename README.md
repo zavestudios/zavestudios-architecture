@@ -6,7 +6,7 @@ This repository is a landing/index surface for ZaveStudios architecture referenc
 
 - Documentation: https://zavestudios.com
 - Governance and contract authority: https://github.com/zavestudios/platform-docs
-- Desired state and reconciliation: https://github.com/zavestudios/gitops
+- Desired state and reconciliation: private `gitops` repository
 - Organization overview: https://github.com/zavestudios
 
 ## Authority Boundary
